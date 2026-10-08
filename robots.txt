@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://nassifmhm302-beep.github.io/royal-pet-site/sitemap.xml
